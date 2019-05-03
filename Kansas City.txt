@@ -1,0 +1,5 @@
+-- Weather Report -- 
+ high : 56
+ low : 32
+ city :  Kansas City'
+ state :  KC'

@@ -1,0 +1,6 @@
+Tue Apr 30 15:21:53 CDT 2019
+-- Weather Report -- 
+ high : 56
+ low : 21
+ city :  Bend'
+ state :  OR'

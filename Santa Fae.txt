@@ -1,0 +1,6 @@
+Tue Apr 30 15:14:23 CDT 2019
+-- Weather Report -- 
+ high : 90
+ low : 60
+ city :  Santa Fae'
+ state :  NM'

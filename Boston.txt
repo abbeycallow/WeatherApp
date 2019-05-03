@@ -1,0 +1,5 @@
+-- Weather Report -- 
+ high : 34
+ low : 22
+ city :  Boston'
+ state :  MA'
